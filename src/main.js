@@ -9,6 +9,14 @@ import {Container,
         Aside,
         Main,
         Footer,
+        Input,
+        Select,
+        Button,
+        Checkbox,
+        CheckboxGroup,
+        Table,
+        Row,
+        Col,
         Menu,
         Submenu,
         MenuItem,
@@ -19,6 +27,14 @@ Vue.use(Header);
 Vue.use(Aside);
 Vue.use(Main);
 Vue.use(Footer);
+Vue.use(Input);
+Vue.use(Select);
+Vue.use(Button);
+Vue.use(Checkbox);
+Vue.use(CheckboxGroup);
+Vue.use(Table);
+Vue.use(Row);
+Vue.use(Col);
 Vue.use(Menu);
 Vue.use(Submenu);
 Vue.use(MenuItem);
