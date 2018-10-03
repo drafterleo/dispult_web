@@ -73,6 +73,8 @@
     }
 </script>
 
-<style scoped>
-
+<style>
+  .el-menu {
+    border-right: none;
+  }
 </style>
